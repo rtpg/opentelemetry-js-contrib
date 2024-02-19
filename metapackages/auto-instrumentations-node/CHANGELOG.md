@@ -152,6 +152,15 @@
   * dependencies
     * @opentelemetry/instrumentation-aws-sdk bumped from ^0.38.0 to ^0.38.1
 
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @opentelemetry/instrumentation-memcached bumped from ^0.33.0 to ^0.33.1
+    * @opentelemetry/instrumentation-mongodb bumped from ^0.39.0 to ^0.39.1
+    * @opentelemetry/instrumentation-mysql bumped from ^0.35.0 to ^0.35.1
+    * @opentelemetry/instrumentation-mysql2 bumped from ^0.35.0 to ^0.35.1
+
 ## [0.41.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/auto-instrumentations-node-v0.40.3...auto-instrumentations-node-v0.41.0) (2024-01-29)
 
 

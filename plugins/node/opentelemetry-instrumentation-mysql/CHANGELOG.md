@@ -6,6 +6,16 @@
   * devDependencies
     * @opentelemetry/contrib-test-utils bumped from ^0.34.3 to ^0.35.0
 
+## [0.35.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-mysql-v0.35.0...instrumentation-mysql-v0.35.1) (2024-02-19)
+
+
+### Bug Fixes
+
+* **instrumentation-memcached:** parse attribute value for net.peer.port to a number ([038e0bf](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/038e0bfda951055ce91724a3b4a3042a9f918700))
+* **instrumentation-mongodb:** parse attribute value for net.peer.port to a number ([038e0bf](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/038e0bfda951055ce91724a3b4a3042a9f918700))
+* **instrumentation-mysql2:** parse attribute value for net.peer.port to a number ([038e0bf](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/038e0bfda951055ce91724a3b4a3042a9f918700))
+* **instrumentation-mysql:** parse attribute value for net.peer.port to a number ([038e0bf](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/038e0bfda951055ce91724a3b4a3042a9f918700))
+
 ## [0.35.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-mysql-v0.34.5...instrumentation-mysql-v0.35.0) (2024-01-29)
 
 

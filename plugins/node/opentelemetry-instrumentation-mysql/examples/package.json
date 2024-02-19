@@ -1,7 +1,7 @@
 {
   "name": "mysql-example",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Example of mysql integration with OpenTelemetry",
   "main": "index.js",
   "scripts": {
@@ -36,7 +36,7 @@
     "@opentelemetry/exporter-zipkin": "^1.0.0",
     "@opentelemetry/instrumentation": "^0.48.0",
     "@opentelemetry/instrumentation-http": "^0.48.0",
-    "@opentelemetry/instrumentation-mysql": "^0.31.0",
+    "@opentelemetry/instrumentation-mysql": "^0.35.1",
     "@opentelemetry/sdk-trace-base": "^1.0.0",
     "@opentelemetry/sdk-trace-node": "^1.0.0",
     "@opentelemetry/exporter-metrics-otlp-grpc": "^0.48.0",
